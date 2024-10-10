@@ -1,7 +1,7 @@
 import React from "react";
 import "./LogIn.css";
-import NookNestLogo from "../../Assets/Images/NookNest logo.svg";
-import LoginImg from "../../Assets/Images/Login-img.jpeg";
+import NookNestLogo from "../../../assets/images/logos/NookNest logo.svg";
+import LoginImg from "../../../assets/images/auth/Login-img.jpeg";
 
 const LogIn = () => {
   return (
